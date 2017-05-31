@@ -13,9 +13,30 @@ Some suggestions in paper writing:
 
 The ABC-ISP Framework in this book:
 
-A: Analyse. think in an analytical way about who they are writing for, on which topic and for what purpose.
-B: Brainstorm. come up with lots of ideas and try them out before they start writing.
-C: Convince. remind students of the need to construct good arguments, based on believable evidence, that set out to convience the reader of something.
-I: Improve. improving the clarity of one's writing through careful revising and editing.
-S: Standardise. use high quality benchmarks (such as international publishing guidelines) as reference points to guide the development of an extended text.
+A: Analyse.
+
+think in an analytical way about who they are writing for, on which topic and for what purpose.
+
+B: Brainstorm. 
+
+come up with lots of ideas and try them out before they start writing.
+
+C: Convince. 
+
+remind students of the need to construct good arguments, based on believable evidence, that set out to convience the reader of something.
+
+I: Improve.
+
+improving the clarity of one's writing through careful revising and editing.
+
+S: Standardise. 
+
+use high quality benchmarks (such as international publishing guidelines) as reference points to guide the development of an extended text.
+
 P: Publish.
+
+
+
+
+
+
