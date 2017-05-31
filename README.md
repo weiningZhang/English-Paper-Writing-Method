@@ -20,10 +20,12 @@ think in an analytical way about who they are writing for, on which topic and fo
 B: Brainstorm. 
 
 come up with lots of ideas and try them out before they start writing.
+(Map the ideas to see how they relate; Outline them to put them in sequence; Select a key problem to investigate; State the main thesis in one sentence; List the five key words; Define the most imoprtant terms; Draft the initial ideas; Start writing)
 
 C: Convince. 
 
 remind students of the need to construct good arguments, based on believable evidence, that set out to convience the reader of something.
+(Set out the claims;Present evidence to support each claim;Make sure that the evidence is warranted;Eliminate faulty logic;Test the ideas in discussion with others.)
 
 I: Improve.
 
